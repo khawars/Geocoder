@@ -478,7 +478,7 @@ following lines and add your own API keys:
 </php>
 ```
 
-You're done.
+You're done. This is updated Readme.
 
 
 Credits
